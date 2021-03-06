@@ -29,7 +29,10 @@ Note: you can specify the PATH but this project was build in intellij IDEA, so t
 ```
 It read a txt with information with "," as a data separator and ";" as a separator for the label in the first line
 
-example_0: John,Doe ---  example_1: Name Lastname;
+example_0:
+Nombre ApellidoP ApellidoM Matricula;
+Rebeca,Gonzalez,Batista,1730042
+Angel,Sepulveda,Lozada,1430382
 
 ```
 #
