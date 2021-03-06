@@ -10,12 +10,11 @@ junit-4.13-beta-3.jar
 ```
 #
 _It can perform queries like selects, with where or without where, update, delete, and select with alias and a simple insert:_
-
 ```
 It accepts > , != , < , =
 Some examples
 Note: you can specify the PATH but this project was build in intellij IDEA, so the txts are in the same path as the project
-
+Note: The alias only work with "=" because of lack of time for the implementation, because this was a project for university
 ```
 * select * from pruebas ; - where pruebas is the name of the .txt and its not necessary the ; in the query
 * Select Nombre from pruebas where Nombre!=Rebeca
