@@ -1,0 +1,26 @@
+Nombre ApellidoP ApellidoM Matricula;
+Rebeca,Gonzalez,Batista,1730042
+Angel,Sepulveda,Lozada,1430382
+GUILLERMO,Prado,Padilla,1403187
+MIRIAM,Tena,Pont,1201095
+URANIA,Checa,Nebot,1001112
+ELSA,Ibáñez,Alba,1102016
+SABINA,Cantón,Galiano,1501131
+TANIA,Gaya,Morell,1601059
+OLEGUER,Marí,Rebollo,1601030
+MARCELO,Cantón,Olmedo,1601134
+VICTORIANO,Luján,Arcos,1302073
+HÉCTOR,León,Pinedo,1201118
+SALVADOR,Ayllón,Moya,1002041
+SERENA,Ferrán,Morera,1001124
+JOB,Nogueira,Flores,1001064
+MATEO,Puente,Uribe,1403094
+PENÉLOPE,Patiño,Ribas,1502110
+ENRIQUE,Ayala,Velasco,1002059
+ORIOL,Casares,Cabeza,1202108
+KURT,Carrión,Cortina,1402040
+SEBASTIÁN,Báez,Olivera,1101180
+ZACARÍAS,Francisco,Franch,1102054
+FULVIO,Alberto,Ugarte,1003191
+ISAÍAS,Falcón,Valverde,1103115
+FRANCISCO,Gomila,Carpio,1102183

@@ -1,0 +1,28 @@
+select * from pruebas
+select * from pruebas where Matricula>1
+select * from pruebas where Nombre!=Rebeca
+Select * from pruebas where Matricula<1730042
+Select * from pruebas where nombre=Rebeca
+###
+select Nombre from pruebas
+select Matricula from pruebas where Nombre=Rebeca
+Select Nombre from pruebas where Nombre!=Rebeca
+select Nombre from pruebas where Matricula<1730042
+select Nombre from pruebas where Matricula>1430382
+###
+update pruebas set Matricula=1 where Nombre=Rebeca
+update pruebas set Nombre=Test where Nombre!=Rebeca
+update pruebas set Matricula=2 where Matricula>1430382
+update pruebas set Matricula=3 where Matricula<1730042
+##3
+delete from pruebas where Nombre=Rebeca
+delete from pruebas where Matricula<1730042
+delete from pruebas where Matricula>1730042
+##3
+select pruebas.Nombre as pruebas, pruebas1.Matricula as pruebas1 from pruebas,pruebas1 where pruebas.Matricula=pruebas1.Matricula
+#33
+insert into pruebas (Nombre,Matricula) values("Test",100)
+
+
+/home/angel/IdeaProjects/pseudogestor/
+
